@@ -1,0 +1,2 @@
+# Smart Quarantine Management System
+
